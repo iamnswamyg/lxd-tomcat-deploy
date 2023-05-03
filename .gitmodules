@@ -1,0 +1,3 @@
+[submodule "spring-app/spring-mvc-java11"]
+	path = spring-app/spring-mvc-java11
+	url = https://github.com/iamnswamyg/spring-mvc-java11.git
